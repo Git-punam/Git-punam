@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Punam Shree Dutta
+### Hi there 👋, my name is Punam Shree Dutta.
 #### I am a student at ME (Software Engineering) || Coding Enthusiast || Collins || Hodophile
 
 Skills: HTML / CSS / Javascript / Node.js / Python / C++
