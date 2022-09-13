@@ -6,7 +6,7 @@ Skills: HTML / CSS / Javascript / Node.js / Python / C++ / Firebase / MongoDB
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning node.js 
 - 📫 How to reach me: dutta.punam.2017@gmail.com 
-- 😄 Pronouns: she / her 
+- 😄 Pronouns: She / Her 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Git-punam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/punam-shree-dutta-70006a76/)  
