@@ -17,6 +17,5 @@ Skills: HTML / CSS / Javascript / Node.js / Python / C++ / Firebase / MongoDB
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Git-punam)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Git-punam)  
 
 ![Profile views](https://gpvc.arturio.dev/Git-punam)  
